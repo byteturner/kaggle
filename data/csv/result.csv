@@ -5,7 +5,7 @@ f7744d01-894b-49c3-8777-fc6431a2cff1,Fully Paid
 83721ffb-b99a-4a0f-aea5-ef472a138b41,Fully Paid
 08f3789f-5714-4b10-929d-e1527ab5e5a3,Fully Paid
 a4957169-d809-44cc-847b-975400bc8d11,Fully Paid
-43467302-94fe-494b-b52f-3fd891fea71c,Fully Paid
+43467302-94fe-494b-b52f-3fd891fea71c,Charged Off
 930c7cb3-6086-434a-9547-3ed41c181552,Fully Paid
 0b2f1b66-741e-4e37-a929-99926cdc9e9a,Fully Paid
 d08f3a5e-93df-40e7-bdd8-cba59180bddf,Fully Paid
@@ -255,7 +255,7 @@ e39e64d2-01c7-472b-b2a6-2cd9d5adb75d,Fully Paid
 d14505fa-f9df-4df4-b99d-9b225508edce,Fully Paid
 2c677e68-e88e-4e4c-8764-be39f33d4372,Fully Paid
 9cac1412-0ff2-43d8-8b0b-8c2410b0877b,Fully Paid
-13223345-1aa9-41f8-9992-7cd4bee7bebc,Fully Paid
+13223345-1aa9-41f8-9992-7cd4bee7bebc,Charged Off
 ff1cd31b-5399-42af-9781-1de4a826da19,Fully Paid
 bbd1f989-501c-4ade-a106-52dbd0e605a1,Fully Paid
 275b5f09-53ca-4cc3-849f-ce0de768823c,Fully Paid
@@ -321,7 +321,7 @@ bbb39b35-957a-4991-a5f2-b216530f4f58,Fully Paid
 b5c8dce6-bdba-411d-b499-d1a858f14602,Fully Paid
 5c5ddef4-c6b6-4a31-b82b-74cf776cf9fa,Fully Paid
 9d5d574e-54fc-49b1-b703-4fd987e5cb20,Fully Paid
-1a9aeef4-ce80-45b2-b46c-02a7f8d1aa82,Charged Off
+1a9aeef4-ce80-45b2-b46c-02a7f8d1aa82,Fully Paid
 65a38a69-dfb4-4b7e-b643-54a09ec4b88f,Fully Paid
 c907e4a8-bc42-45ca-8b15-6d279548a13e,Fully Paid
 49dab571-442c-4ad5-8b53-af4c70a576fd,Fully Paid
@@ -451,7 +451,7 @@ b51831a4-533b-420a-9421-992ab7caa677,Fully Paid
 dd743d28-f7ba-4cb5-b98a-70a7d94721f8,Fully Paid
 ba3bcb51-0897-4d4d-b53a-d810bbe21001,Fully Paid
 3d2ca694-aeae-438a-a1f7-89989754f0f3,Fully Paid
-2d93916d-3536-45ce-8d7a-6f0e012e96dd,Fully Paid
+2d93916d-3536-45ce-8d7a-6f0e012e96dd,Charged Off
 b3fa4669-da05-4c67-ab99-14bbeb8aa3f6,Fully Paid
 fbec14e9-c124-4274-b5e3-a6f4ce775efe,Fully Paid
 1287ffc1-d407-4c0b-bc7e-3234b2bffa14,Fully Paid
@@ -798,7 +798,7 @@ d793d4d3-e97f-4d1f-bfa8-7a93dcc09b04,Fully Paid
 4ad3ff10-39ab-400f-b9ef-756311d93647,Charged Off
 8a99f953-3505-4027-9997-be6bbf8910b4,Fully Paid
 e5a147f0-5eed-4dfd-afe6-8b04570ea297,Fully Paid
-fa584f27-b4b0-4b64-9759-7a96c7be9741,Fully Paid
+fa584f27-b4b0-4b64-9759-7a96c7be9741,Charged Off
 34846126-704e-4da5-a46c-556f4bd22e4a,Fully Paid
 531649a2-6909-45ef-a53f-72f486cea625,Fully Paid
 944be93f-1b22-4771-8c13-7cc1df8fb19b,Charged Off
@@ -979,7 +979,7 @@ d0896e0f-29de-44d6-9f21-f338197f55f8,Fully Paid
 0158e865-fdf1-4dc6-bf29-fb9406e41b0d,Fully Paid
 2eecb638-fce9-47bb-ad82-09908cc4ac65,Fully Paid
 8e8c16e5-c18e-40d8-9534-12a3539b0f86,Fully Paid
-cffe7c9b-dba2-4685-aff2-5e8fb06023cd,Charged Off
+cffe7c9b-dba2-4685-aff2-5e8fb06023cd,Fully Paid
 5db7e4cb-7b23-44bd-83ce-bc0646e1d094,Fully Paid
 7a91a837-63a6-4e09-a13e-4931a95d5de9,Fully Paid
 1e493364-7ae3-4e05-89cb-ef4c95dd0389,Fully Paid
@@ -1824,7 +1824,7 @@ d67651e3-1253-41bb-8a7d-5ac4e12ddb49,Fully Paid
 930b1dce-a628-4058-a87b-25b009db4399,Fully Paid
 8821710a-31ab-4a31-94fa-7a9699aee100,Fully Paid
 e19489df-2f04-4c6d-a58c-93538a0b67ec,Fully Paid
-ad06f276-8072-40af-95ae-17133d9880ca,Fully Paid
+ad06f276-8072-40af-95ae-17133d9880ca,Charged Off
 9569816e-87d5-477e-a1b8-1743826604d6,Fully Paid
 ea13f70c-7b84-4daf-bcd3-b82ed26890fe,Fully Paid
 49f09354-aca9-4018-a367-3c7ac0b71ad1,Fully Paid
@@ -2085,7 +2085,7 @@ b5a6d4ae-95b5-482b-bb7c-03db05906556,Fully Paid
 4938d78a-9d69-47a8-a5da-b9b73b2294c0,Charged Off
 8f852c27-3c13-4c5f-bd63-d54840697111,Fully Paid
 b8ae42e6-beaf-4b9a-8d39-12e164caee92,Fully Paid
-35b8b15e-c931-4393-8719-cd44f05e42e5,Fully Paid
+35b8b15e-c931-4393-8719-cd44f05e42e5,Charged Off
 b9cab925-b569-479a-9a52-3a5bb640e203,Fully Paid
 c99c50fa-a0c3-4f82-be6c-3f58a4242a3c,Fully Paid
 f5eca3e6-ceb9-468f-83b9-6f476c58a41f,Fully Paid
@@ -2186,7 +2186,7 @@ ec7c95ef-3e2e-4093-b1c4-8b9ac9309756,Fully Paid
 9281b9c7-34da-48ce-81e6-c08b86d9fcf8,Fully Paid
 410ed895-81c9-428a-bd61-2d47343e8702,Fully Paid
 30ff2937-7f2a-4c26-b8a5-7c1a017c9f95,Fully Paid
-b9de8d26-b75d-4ecd-8cfa-26d34ac4e83e,Fully Paid
+b9de8d26-b75d-4ecd-8cfa-26d34ac4e83e,Charged Off
 19b29c74-3ad6-4df6-8ac2-cd233f753363,Fully Paid
 daa4b194-a94a-4f6c-9c77-d6a1533439e1,Charged Off
 704e8af9-a1f2-4ea8-ac78-8b82230c6e80,Fully Paid
@@ -2210,7 +2210,7 @@ da887b8b-b4f3-426f-90aa-082e02167363,Fully Paid
 26936668-5e38-4f1e-ba41-1a4e4bb7a6fb,Fully Paid
 0266e908-188c-4fc9-b518-bdb8269479e9,Fully Paid
 d4cc0af7-e9a3-4cbd-a386-24fd9dfa824b,Fully Paid
-4ade8087-6e17-41a3-81ec-a9e203d0027a,Charged Off
+4ade8087-6e17-41a3-81ec-a9e203d0027a,Fully Paid
 3bcc01c3-a54e-4403-9e7d-c2bb336172ea,Fully Paid
 f59c347a-7835-42eb-9d1b-52aa684fbadf,Fully Paid
 07b8950a-23a6-4b9b-9ae3-e7e710c091f6,Fully Paid
@@ -2373,7 +2373,7 @@ de109858-f305-4c1d-87ce-065186ce1a04,Fully Paid
 8d37ec06-2b10-400c-af57-c9650239c335,Fully Paid
 0aaf9143-a9de-4278-8837-c00bb8b3653e,Fully Paid
 6345d536-29c0-47c4-ab25-b77e79100e0c,Fully Paid
-76fc5f54-8a08-4c56-91ec-ff7a080b7e7f,Fully Paid
+76fc5f54-8a08-4c56-91ec-ff7a080b7e7f,Charged Off
 4f8a7824-b9bd-4b8c-b2a1-6b7b196d2c0f,Fully Paid
 43141e9f-d68c-4141-b081-1644ed760699,Fully Paid
 fc6f5e97-4307-4c74-8dcc-0ba8c4b4010c,Fully Paid
@@ -2413,7 +2413,7 @@ a7debee4-dd04-4080-b9e9-cf01cb55adf5,Fully Paid
 86c9cb66-e92a-409a-af33-13cb8558c286,Fully Paid
 df066171-8d92-41f9-93f3-9d91f7759116,Fully Paid
 5a219a84-6c24-41ce-9aa8-20ed9550c1fa,Fully Paid
-2dbf7cd5-889c-45bf-9c9a-63b1fa8e7d56,Fully Paid
+2dbf7cd5-889c-45bf-9c9a-63b1fa8e7d56,Charged Off
 fb320ead-be76-4c5d-936f-84b58ca5bc22,Fully Paid
 5227a6e4-26c5-49c8-b132-37efbe41daea,Fully Paid
 30e6840c-dc6d-47b2-94b8-a2b634e00b3f,Fully Paid
@@ -3836,13 +3836,13 @@ ac253def-ba08-41d8-ab25-010f51c6c8be,Charged Off
 2f4503ed-6939-482a-84fd-e9d20451bc23,Fully Paid
 b83ce897-4c03-46e6-8393-74b9504218c0,Fully Paid
 d44a12c8-b54c-4173-9ea2-4b1f4256de15,Fully Paid
-8b776720-d881-4a18-92a5-2276773010ce,Fully Paid
+8b776720-d881-4a18-92a5-2276773010ce,Charged Off
 8cfe78df-d9d8-4a89-b409-cd1ac387225f,Fully Paid
 6e703464-030d-459c-a6c0-2cfe7d93e327,Fully Paid
 c1c44333-6605-4437-bd92-1f3d342cf5f8,Fully Paid
 d5cf14ad-9a45-4e18-87b6-05a97ecd6988,Fully Paid
 dcc34f66-b35c-44b3-9780-fa3bc8665108,Fully Paid
-1c35fb77-1808-41e1-8d46-96586dbb8661,Fully Paid
+1c35fb77-1808-41e1-8d46-96586dbb8661,Charged Off
 a829fec3-7c73-4200-905e-e9b0d3afd70f,Fully Paid
 a0b06286-2049-4186-ab01-bf99127bab62,Fully Paid
 3349f6f6-2e30-43b2-b7ec-50486148a5c7,Fully Paid
@@ -3887,7 +3887,7 @@ e1df5b10-621e-423d-b830-fcf594ca14ba,Fully Paid
 ffce6cdf-c818-40ac-a271-79e3377a256a,Fully Paid
 e49167b2-4a49-49bc-97c4-70e1ff9f94e8,Fully Paid
 426dbe4c-ea94-4f22-b127-25eb92d31039,Fully Paid
-4517225d-8a8d-41a3-9b82-91443f112d18,Fully Paid
+4517225d-8a8d-41a3-9b82-91443f112d18,Charged Off
 4df4ead6-5309-4b8a-804f-5a4336567aaa,Fully Paid
 398cecba-cabe-408f-9760-1b41a625eae0,Fully Paid
 a59bc475-1a2f-4a0a-afd0-8d939b8a6508,Fully Paid
@@ -3970,7 +3970,7 @@ dd264340-5206-4f91-91ca-dbc5a8487ea7,Fully Paid
 f42a8674-5ea9-427c-a47c-7ccf2e845717,Fully Paid
 bb1b7249-08e4-44cf-8748-b5ea6931f1ce,Fully Paid
 210adefd-bef6-4f06-9e8b-665d0ae9f620,Fully Paid
-5b1e698c-16dd-4be1-9110-eb1de710d898,Fully Paid
+5b1e698c-16dd-4be1-9110-eb1de710d898,Charged Off
 d9ab748d-268c-468f-b1aa-61f86564dc76,Fully Paid
 a8cea31c-e3b7-4a9d-94e9-d1b766f8bcab,Fully Paid
 4db28f87-feb7-4382-a2f9-dea529ebb92a,Fully Paid
@@ -3993,7 +3993,7 @@ f1163150-313c-401c-b9d1-28c0c65de397,Fully Paid
 3d541233-b29e-4d42-851b-6f8a12c40b69,Fully Paid
 72bd0528-61c1-4b9d-8ed9-33fc838aa567,Fully Paid
 c2da142d-05d0-4ef3-8d0e-947b16dca6f6,Fully Paid
-73052780-f000-49e7-a614-01478541d064,Fully Paid
+73052780-f000-49e7-a614-01478541d064,Charged Off
 e357c4d7-d54d-456f-b863-7c14c3040e38,Fully Paid
 e8101f3c-c2aa-4785-a338-3693cc02dd0b,Fully Paid
 35581950-97bc-4d50-bb56-1223fd5248be,Fully Paid
@@ -4007,8 +4007,8 @@ e2fa1eda-1aee-4e54-80ae-da6556c3b00e,Fully Paid
 278b9a94-783e-4e95-91b3-d994537a6d29,Fully Paid
 3c2e0ee2-a9d1-45b1-9d96-a3a7b68c75b2,Fully Paid
 9224dfc5-5258-493c-a5e2-d3caf1e5a0f1,Fully Paid
-1627bf40-ff5a-4fbe-9fe6-7a52c4a85f5a,Fully Paid
-aa4bcadd-7dce-4232-b6e3-f041dd71d161,Fully Paid
+1627bf40-ff5a-4fbe-9fe6-7a52c4a85f5a,Charged Off
+aa4bcadd-7dce-4232-b6e3-f041dd71d161,Charged Off
 aebdc79c-1131-4cc0-94ce-5b9e34eb9c9a,Fully Paid
 69502fce-23d2-4443-a869-4b52987b70aa,Fully Paid
 b553c736-3557-42c8-96d7-9a3baaf94275,Fully Paid
@@ -4283,7 +4283,7 @@ d4abdc80-190f-4346-b1e1-efc94ea5014e,Fully Paid
 80ba0076-f081-42b3-a485-46decfb3865a,Fully Paid
 670c1f93-969a-4b3b-944f-58e1e8b19bca,Fully Paid
 89497547-0743-4f08-85a3-e906b675d580,Fully Paid
-f224efe7-9995-4c18-8a42-64649c630e46,Charged Off
+f224efe7-9995-4c18-8a42-64649c630e46,Fully Paid
 afd56330-3793-4f0f-8ff6-dd8fd87f564c,Fully Paid
 a59a48e2-3ca5-4afc-a469-f903dbe6462f,Fully Paid
 a9071e65-04c2-4d53-9fbe-e914f915e0fc,Fully Paid
@@ -4321,7 +4321,7 @@ a0d42aaa-41af-4f14-a35e-4f69a4dff151,Fully Paid
 082a73cb-2395-4528-8089-f51855b2c8fa,Fully Paid
 d0320a2d-4534-49ed-a654-31c47f6c68a7,Charged Off
 65e3793b-e220-4b35-b5fd-930c0da852b5,Fully Paid
-6f07caeb-e54a-46e4-ba4c-cf47ea9e92b2,Charged Off
+6f07caeb-e54a-46e4-ba4c-cf47ea9e92b2,Fully Paid
 9a51214d-cde3-43ef-a2fa-85447fb86a3c,Fully Paid
 7ff77072-5eea-44d9-8e9d-a1048894ab3c,Fully Paid
 9c03f7f3-1b6b-4458-a947-616df3f4aa86,Fully Paid
@@ -4542,7 +4542,7 @@ d424aa0c-e078-4302-8351-bb3cc1c823bd,Fully Paid
 50e2942d-fdaf-439b-b2da-b882da8f821d,Fully Paid
 57033c20-01ab-48ad-822d-9b4b3495d32c,Fully Paid
 fd56cfaf-0f97-45fa-8cc4-95ca464a4b50,Charged Off
-77eb3546-703e-46de-be2b-1f8c97da1ecf,Fully Paid
+77eb3546-703e-46de-be2b-1f8c97da1ecf,Charged Off
 1775cc89-850a-4fbe-a165-da5c34fde679,Fully Paid
 e3891f72-930f-46c8-8001-438bc26f7e39,Fully Paid
 9ac1a95f-f217-429c-b6fb-88ba73b31f5b,Fully Paid
@@ -4569,7 +4569,7 @@ b2be95b2-2abf-413e-a83f-3daf602c4a21,Fully Paid
 73a8c759-ffdb-4120-a0dc-62034d2bd28c,Fully Paid
 5e57c83b-d4d5-4b4b-bcb1-f82c3d2873f1,Fully Paid
 44b1ba48-dd2b-44f4-911b-4cd17b5b9c31,Fully Paid
-ec0f83cd-4df7-4607-9ec2-038106781b33,Fully Paid
+ec0f83cd-4df7-4607-9ec2-038106781b33,Charged Off
 273a70b5-55fb-4404-b251-5f3c4aca80ce,Fully Paid
 ddfdc523-a74e-4092-8804-2403183557ea,Fully Paid
 6d2fc62f-7ac0-48ac-b9cc-68ab0d2bb9a1,Fully Paid
@@ -4601,7 +4601,7 @@ d88458b4-eb1f-4116-91e8-63bd6da6969d,Charged Off
 12e80737-1b54-47a6-82d1-e22e36d3a8e7,Fully Paid
 c3fa2e46-02af-4131-b091-8d7d6131dc6d,Fully Paid
 9694ce16-635b-4539-884a-3cbe01202691,Fully Paid
-be4289ca-0f85-4ab6-85be-0dfd37c15ad6,Charged Off
+be4289ca-0f85-4ab6-85be-0dfd37c15ad6,Fully Paid
 abd0ebcc-4b76-4a2b-81b7-3ed6a6e11b9d,Fully Paid
 a261a6c4-0373-420a-9a94-5897555221b1,Fully Paid
 475fbc4e-71cc-4e08-a7da-d1455476a3e3,Fully Paid
@@ -4793,7 +4793,7 @@ af52aff7-3c32-4a9c-85d4-8c351f6d9b1f,Fully Paid
 ce7ff9ed-9b9a-49b6-95ec-32263508502c,Fully Paid
 c6db5ee6-b50b-4e98-b5ac-2ae597f0a5a7,Fully Paid
 c2b624ba-4e6d-4337-9c93-7ca498a8f2f2,Fully Paid
-c79c47a3-f2f0-4471-8674-1b72d23a1df6,Charged Off
+c79c47a3-f2f0-4471-8674-1b72d23a1df6,Fully Paid
 825c2ba3-4092-49d9-b8c2-eb599a43a7db,Fully Paid
 b1a91bfe-960a-4c20-9ad0-325c9c89bab6,Fully Paid
 342bc4c0-e5c6-48a8-8bad-47efb232ef4f,Fully Paid
@@ -5184,7 +5184,7 @@ d8e3e18f-107b-44ac-bc53-4e9ec8ece663,Fully Paid
 699e1399-ff53-4131-856a-7fd87d8a83a0,Fully Paid
 36392709-a5ff-4c2e-a4ee-a79dfcb943b8,Fully Paid
 afd319b0-3639-4aff-941e-5cd96f0fff35,Charged Off
-7fe3d429-7e96-400d-b187-1a4b1cd9aa8a,Fully Paid
+7fe3d429-7e96-400d-b187-1a4b1cd9aa8a,Charged Off
 62d7263a-fc73-4d4a-a48b-f84a68dc2c28,Fully Paid
 2e0f671c-a704-4206-94d1-5550a27f6f5a,Fully Paid
 9ea5d2be-d04e-4fe9-865f-349ef446c963,Fully Paid
@@ -5240,7 +5240,7 @@ a867f69f-f5c8-493b-94a1-f61505a95632,Fully Paid
 cf847dca-3503-4921-9143-997adbee3f5d,Fully Paid
 53acf50f-2231-4a5e-8cbd-065adfecf41e,Fully Paid
 8fe56e44-c2b2-4a34-ac85-a885b619887b,Fully Paid
-9e6a4861-6b5e-4db8-99ed-92c02e2f4d66,Fully Paid
+9e6a4861-6b5e-4db8-99ed-92c02e2f4d66,Charged Off
 b4c696c5-de12-479b-b54e-f02ed850cb1d,Fully Paid
 e9aafcb1-4682-445a-86b1-dea18119c2f0,Fully Paid
 214936c2-31c7-4e19-bd52-2576aaf2cfb7,Fully Paid
@@ -5251,7 +5251,7 @@ b6ef3643-d6aa-452a-89bf-cbd3199186a8,Fully Paid
 07ad2653-bcea-4a89-8c17-d28886ae520b,Fully Paid
 a3ad2d24-fbfe-4711-ba7d-ef6cf3fc2bc1,Fully Paid
 d070aea8-75f5-42fc-a6d7-a948bf922e50,Fully Paid
-47851bf7-1725-485b-8f42-8173919c418a,Fully Paid
+47851bf7-1725-485b-8f42-8173919c418a,Charged Off
 55a4672f-c0d7-4952-bcb7-ae52fd081947,Fully Paid
 eed65669-0e08-44da-beea-d4c1848a1c01,Fully Paid
 60e6687d-b675-4b96-8da3-3225d576cd8d,Fully Paid
@@ -5519,7 +5519,7 @@ c4493d52-ca8a-4280-8655-a37a89632ffb,Fully Paid
 38eb92f3-9070-4de0-a829-7a35571c14b3,Fully Paid
 795b8da2-591f-482d-8f9d-eadbf48d73c4,Fully Paid
 2c9f9f5c-9ea0-4927-bd6f-0ab630d0ad36,Fully Paid
-be24eb94-31d8-4344-9fd3-1b18b655a5c1,Fully Paid
+be24eb94-31d8-4344-9fd3-1b18b655a5c1,Charged Off
 839aa998-e23d-4b78-abdb-3c9ab7be7e22,Charged Off
 a5e82ae9-dae1-4609-824a-488e8efa250c,Charged Off
 760443a9-aa91-4a24-b748-4a3fdb9434ff,Fully Paid
@@ -5575,7 +5575,7 @@ c19ff8f6-8c15-4425-9a26-ca490348d1cc,Fully Paid
 7b58eb73-e038-440d-bd17-dbfaaab8671b,Fully Paid
 c63c9c10-3151-4de9-bb78-015a2ced46e8,Fully Paid
 8fcc62e6-1c9a-468d-bb2a-44495b7833d6,Fully Paid
-751353ca-e91c-4973-9935-0867afd10f61,Fully Paid
+751353ca-e91c-4973-9935-0867afd10f61,Charged Off
 35714717-f525-4f12-bec4-2bf9ea6684e1,Fully Paid
 b194b900-f832-48ef-9fb9-573657015858,Fully Paid
 6e12ef24-bdbb-4148-9014-a269487bb528,Fully Paid
@@ -6131,7 +6131,7 @@ c59cb07b-57cf-4eda-be81-882aa353b1e4,Fully Paid
 b8c98072-91f5-450f-8e73-fa823da33a7a,Fully Paid
 b291c06c-1310-4d86-8591-f8f5cbe30435,Charged Off
 7839e2e8-5a89-4582-a56a-94a9fd0c8dc3,Fully Paid
-dac1c3e7-47bd-412a-8361-609fc5d88553,Charged Off
+dac1c3e7-47bd-412a-8361-609fc5d88553,Fully Paid
 c016a5f3-fd14-412b-88f7-51576abaff66,Fully Paid
 9108a085-d82b-40dd-9ad9-b7508eac03cb,Fully Paid
 36f4b61f-e776-4b2c-a80e-0e515c15e6e3,Fully Paid
@@ -6335,7 +6335,7 @@ c679d418-1d35-44b3-bb2c-0d8f19ef08c7,Fully Paid
 8faa2429-2cfe-4cfe-b304-3067ff18bb21,Fully Paid
 295b89ec-277f-43a8-864e-bc4544322b64,Fully Paid
 c2250b90-1ce3-424e-bea0-bc86cce0645b,Fully Paid
-326e38f3-375b-40d2-8846-eea85f703360,Fully Paid
+326e38f3-375b-40d2-8846-eea85f703360,Charged Off
 6033e31f-ab06-4d41-b442-d0afd6f9f5b3,Fully Paid
 d7012ab8-b11c-49b9-b09a-0615c6ac182d,Fully Paid
 296ef650-dda1-4106-ba8c-953d3a158e06,Fully Paid
@@ -6370,7 +6370,7 @@ bfcabe4d-a32b-4105-a882-3c6e3243dfb7,Fully Paid
 5214bd34-4cd4-4970-b784-d2fd2a4fed30,Fully Paid
 22e12f0c-8006-41fc-8c1d-224e69c447cd,Fully Paid
 b75feb53-f30f-4138-acc5-43399a7d4caa,Charged Off
-02ee9c4b-19de-4d58-85d9-6a857b8183c5,Fully Paid
+02ee9c4b-19de-4d58-85d9-6a857b8183c5,Charged Off
 e6b7d80b-778f-4c74-b6a6-af7a77d14afa,Fully Paid
 4fb8de0e-712e-46f2-8fd5-0accea89f684,Fully Paid
 e2c4e8ed-5525-4f06-be00-0a980bf32af2,Fully Paid
@@ -6495,7 +6495,7 @@ b4252a08-61aa-4457-b5d1-62273e1b9768,Charged Off
 89c90b76-bb3f-4784-a4d3-28003277511a,Fully Paid
 5565dd7d-e4d3-4127-9065-b8addd18a65c,Fully Paid
 56efd0ac-426e-4e7a-b6e9-d99796d53c6f,Fully Paid
-4a43577c-e140-4968-9453-f6b5145dfa4d,Charged Off
+4a43577c-e140-4968-9453-f6b5145dfa4d,Fully Paid
 6c944ed7-39c6-405c-a120-8ebd9f128272,Fully Paid
 3797686c-edc4-4bc7-8e95-08a237a3699c,Fully Paid
 90e68421-629a-44f1-9b08-487c5fb0df1b,Fully Paid
@@ -6698,7 +6698,7 @@ f577b770-5978-4923-807e-c473ae6b5cd1,Fully Paid
 5ed2eedf-4c32-436a-a253-4cbbc582352b,Fully Paid
 36bab8bd-70cf-4067-93d6-5258dde5237e,Fully Paid
 ff6e3db6-bf52-4076-91cf-1d67d7f8e8da,Fully Paid
-aed57fd8-c0d4-4fa3-8d57-a4a916c1fffd,Fully Paid
+aed57fd8-c0d4-4fa3-8d57-a4a916c1fffd,Charged Off
 7ea92e53-f9cd-433b-9348-bf5463379730,Fully Paid
 b46eadcd-cf2a-4dfe-bb24-eb22bd827131,Fully Paid
 921be086-e300-4efc-b6ea-32f93765b787,Fully Paid
@@ -6762,7 +6762,7 @@ dfd05c2d-aca9-46f5-800a-be105073d92f,Fully Paid
 90fc88b5-49d6-4ed2-a32a-edb51b52f7d4,Fully Paid
 f4d47bf2-8949-418b-b93a-774ac5aabc69,Fully Paid
 3370e517-8103-4767-8524-7faa9cff1498,Fully Paid
-e922d341-201d-4cb4-bf56-461ac85b8587,Fully Paid
+e922d341-201d-4cb4-bf56-461ac85b8587,Charged Off
 e98b0dd5-9a34-4f5d-aa41-d267cddddd33,Fully Paid
 28adc3aa-8b18-4658-a2e0-7df5a64d558d,Fully Paid
 3db703f1-1bfd-4581-8df2-26f13354fd7d,Fully Paid
@@ -6956,7 +6956,7 @@ b04a65fc-4969-40c6-9d22-8046949bcd98,Fully Paid
 8d3fa35e-4d52-4813-bdbc-32876294f1d2,Fully Paid
 1c2db4c8-33ec-4ac5-af6e-c558d2b1eda6,Fully Paid
 78ee613a-686f-473d-8c5c-bf77c5fc0bef,Fully Paid
-cddbd3c3-dca2-43f0-bd35-fb7c4a0e787b,Fully Paid
+cddbd3c3-dca2-43f0-bd35-fb7c4a0e787b,Charged Off
 db973f77-8a94-4863-a517-ab6cd9231e70,Fully Paid
 5ec18107-6eb7-4700-81b6-c31b450d5241,Fully Paid
 380e4723-94b3-426f-a9d8-9eda527e2c37,Fully Paid
@@ -7172,7 +7172,7 @@ e31cc089-ec3d-42fd-afb2-52a87b47037d,Fully Paid
 c2c4bef2-13b9-453d-8dff-6d123cf5c0b2,Fully Paid
 3727d4e0-c687-4ac3-be8a-ebc1b751d3d1,Fully Paid
 caa7b31c-9b8a-4b3f-884e-18ed5e2dc6ae,Fully Paid
-33410356-441b-435b-a8f2-729f8523cf29,Fully Paid
+33410356-441b-435b-a8f2-729f8523cf29,Charged Off
 6f7a87e6-fcec-41f3-ad5e-7b5c81a2e6d2,Fully Paid
 f2045038-d17b-492f-b1d4-5a0337248789,Fully Paid
 03abc0ad-74c4-48c6-bc35-31f012bb2a15,Fully Paid
@@ -7403,7 +7403,7 @@ fa00664a-077e-4d42-8eb5-8db4f637026e,Fully Paid
 2b499c74-ab19-40a4-a373-68fc6e52a5a1,Fully Paid
 9936a1e9-16d4-455e-adc6-7c7ab619371f,Fully Paid
 5780f1fa-9788-4f64-be57-b1a84711b4b5,Fully Paid
-6ddfa15f-1ca8-4b86-9972-e3fce427ca5b,Fully Paid
+6ddfa15f-1ca8-4b86-9972-e3fce427ca5b,Charged Off
 8ddcea94-9885-4937-8c02-d76792314359,Fully Paid
 ca3e8f20-10b4-4a64-bf3a-15fac140aaeb,Fully Paid
 09c6389c-1cad-49bf-8231-7efb619d6021,Fully Paid
@@ -7483,7 +7483,7 @@ d274c072-dce2-47cd-a0f5-dba4e4ef51f6,Charged Off
 ba25e1b1-e2c6-407f-918c-aafeb25e0f9f,Fully Paid
 3e162147-1995-40db-aa40-2d33acb094ed,Fully Paid
 b6301f33-dbf7-4588-bf8c-66da5574c63e,Fully Paid
-f9485016-0916-4194-9cfd-e3118fe406cb,Fully Paid
+f9485016-0916-4194-9cfd-e3118fe406cb,Charged Off
 11228d01-9558-4aee-aefe-4f90f5e71ae1,Fully Paid
 a681d698-336a-45fe-8f4c-770d25bb7b11,Fully Paid
 1ea480bc-be6d-4ad8-9821-5f685f3f2faf,Fully Paid
@@ -7593,7 +7593,7 @@ fa6b374b-18b6-493a-a451-f7a2dedc7d6c,Fully Paid
 b25b2794-fa7c-4d06-956e-e5301d1b01f5,Fully Paid
 36dfdc85-32c5-4ece-b95e-911af96d7a9c,Fully Paid
 c06acd4b-57fc-4feb-a0f7-9bd61b29d3da,Fully Paid
-ad3db3ca-9ea5-4b14-8e57-89bc7c5d4b70,Fully Paid
+ad3db3ca-9ea5-4b14-8e57-89bc7c5d4b70,Charged Off
 7ca7b817-4d92-41d2-809f-ea0e9fe0b2a7,Fully Paid
 7305aab3-1c29-439a-a39a-0324bf76c7ce,Fully Paid
 ddee7779-05b2-40e5-9193-6c3267eef6ff,Fully Paid
@@ -7951,7 +7951,7 @@ ab3d0359-2da3-4928-bca8-09aa2b93066b,Fully Paid
 b07ad519-4b54-4c9e-9eea-a7602f0f3d73,Fully Paid
 0aef3c0c-a8f4-4f62-a9ee-eaeab8163ea9,Fully Paid
 654d9b3e-0e73-4a98-bdaa-71da3068b324,Fully Paid
-eeb2ec39-324d-4e16-aef2-445219c13f4e,Charged Off
+eeb2ec39-324d-4e16-aef2-445219c13f4e,Fully Paid
 830f5516-b011-4f78-af4b-e78a4ced09dc,Fully Paid
 26341604-b8cd-48ad-87c9-f68dbaf80b2e,Fully Paid
 ead62d0e-8997-4d6c-8281-4c0388ae7bb3,Fully Paid
@@ -8275,7 +8275,7 @@ eaa8ac84-670d-4e33-8651-f2f1ab953dab,Fully Paid
 2454442b-a73e-4c9e-99a5-ed181917a0ea,Fully Paid
 888d942b-4f98-4f0b-9761-ba324cbc79ed,Fully Paid
 cba5490d-a6b9-4449-8dba-74630401143b,Fully Paid
-3c577ec8-e327-4ef6-b31a-b6a5fbda23e0,Charged Off
+3c577ec8-e327-4ef6-b31a-b6a5fbda23e0,Fully Paid
 0aabf3a8-c5b1-4a20-83c9-d784e383f3b2,Fully Paid
 de5e1afd-d4a8-4089-9492-dcfeec6d242f,Fully Paid
 04d2818a-3b2c-4d9b-9cfa-96b3d1b38312,Fully Paid
@@ -8296,7 +8296,7 @@ e423b13e-f500-4430-9aa4-5ca4869c2ef2,Fully Paid
 128975da-1c32-403d-affe-d954f532d622,Fully Paid
 2c3d2b0b-28c3-444b-b6b7-2e27808f5e80,Fully Paid
 086a985e-60ed-47ed-a963-574a15b88ac8,Fully Paid
-6521a727-a0a1-45a0-a26c-ef3043d4cfec,Charged Off
+6521a727-a0a1-45a0-a26c-ef3043d4cfec,Fully Paid
 b0fb8f67-6082-4d90-ad12-4a1f74cf2b15,Fully Paid
 bc550903-9dd1-4587-bf80-cbb6e452f299,Fully Paid
 7f52e004-b04e-4e4f-93f6-79a008cd9da7,Fully Paid
@@ -8438,12 +8438,12 @@ aaa44cc2-33b6-4451-8651-821ed577f82d,Fully Paid
 75ab95e2-7007-4804-a34c-72780f47ddf8,Fully Paid
 87f6ce6e-ce68-4e69-82db-f4ad8b2ee40d,Fully Paid
 12ac7c41-8584-47f6-b7f8-eb72b58d2a50,Fully Paid
-066593d4-7a82-4c7d-86c7-d3c1d9828ea7,Charged Off
+066593d4-7a82-4c7d-86c7-d3c1d9828ea7,Fully Paid
 86b8d6c1-ef0c-4e7b-9971-43cf247e17ec,Charged Off
 b78f1e56-7e2f-47fc-9f40-8d5d9cea278a,Fully Paid
 5ad1275c-1b0c-4527-9bb3-1c701f0ba509,Fully Paid
 e4f0b479-cdc2-4168-853b-2637d106d0a9,Fully Paid
-60472509-d44f-4bc9-8b54-3f2e4ce8c16b,Fully Paid
+60472509-d44f-4bc9-8b54-3f2e4ce8c16b,Charged Off
 83e07c1b-5255-4465-81a3-26ae28afd9d0,Fully Paid
 1065aa18-ad00-4d2a-86cf-9a1a5efc4c12,Fully Paid
 57857dc2-7914-4f1f-bb75-e0f42f98a39a,Fully Paid
@@ -8777,7 +8777,7 @@ aed66a7b-d28e-4dfc-9c5a-6f1a5ac5db5b,Fully Paid
 a96222ed-02bf-40c1-8bcb-7ecfa43ade39,Fully Paid
 d0726ca7-c72f-4436-81e5-f3bd6c518eca,Fully Paid
 0b648823-54e5-4c86-8182-7ebec8fbd5fa,Fully Paid
-581df1b1-89ca-4b6f-a47a-52d8166714c0,Fully Paid
+581df1b1-89ca-4b6f-a47a-52d8166714c0,Charged Off
 b72e7bb6-b119-4408-99c2-a343a21618d2,Charged Off
 e370cd6c-dd6a-400d-b5ca-74b0ac180ecb,Fully Paid
 8f8d6311-eef6-444a-802b-1b3bc1fb50ef,Fully Paid
@@ -8823,7 +8823,7 @@ a7b4b292-1cf7-464f-b7ed-d22dc63448d2,Charged Off
 f9b66b55-8975-44ff-98df-0c859f99f0e2,Fully Paid
 326fce1a-5c2c-4466-8454-75849fdd0c54,Fully Paid
 18fa05bf-0c5a-469a-a20b-eaf1ec888fab,Fully Paid
-f8e24006-e9ce-4f22-b921-ddacfe12374f,Fully Paid
+f8e24006-e9ce-4f22-b921-ddacfe12374f,Charged Off
 5917d689-0a67-4633-aa5a-0bcca3041b0e,Fully Paid
 c1481247-54b0-4e12-8b37-6b53f493269a,Fully Paid
 ba758068-313a-457c-aeba-f607641e4430,Fully Paid
@@ -8883,7 +8883,7 @@ da68fadc-098c-47cd-9a8e-8bf0bf579f07,Fully Paid
 e887457b-486f-4cf9-a495-c5054b5472f7,Fully Paid
 0b97d988-5768-4ff8-80a2-a6082397a946,Fully Paid
 d349a50f-d430-4de6-8cfb-6e999eb2fe40,Fully Paid
-dc5e8f6d-f28e-4485-97db-f3a089a155f2,Fully Paid
+dc5e8f6d-f28e-4485-97db-f3a089a155f2,Charged Off
 35395d96-1740-4cdc-8563-667a36926abb,Fully Paid
 78a35905-4a1d-45ae-a3fd-1d8220b85b3a,Charged Off
 7811f35c-01eb-46c6-b96f-214d281f3779,Fully Paid
@@ -8940,7 +8940,7 @@ b3649913-de8d-4b07-80b5-c6a6c20d4caa,Fully Paid
 5d893252-fd21-4b52-b17c-943cb9453f08,Fully Paid
 8ec7fec4-3135-40c5-8cc9-7ac8dcbd3724,Charged Off
 1cc5aa9f-5bb9-4aa8-ad0c-dea83480eb8e,Fully Paid
-926a4307-a5a9-4b73-97df-a6bb830c942c,Fully Paid
+926a4307-a5a9-4b73-97df-a6bb830c942c,Charged Off
 ad02792e-78ad-4367-954f-b936b94d782d,Fully Paid
 063083e5-efb4-4777-96b6-6cb167b4a326,Fully Paid
 34188a54-d6f8-4199-9287-edc82a48fff7,Fully Paid
@@ -9009,7 +9009,7 @@ d79ec91b-22d3-44a7-8fb9-dec39f7484c9,Fully Paid
 be187c39-68b2-46a7-b2a1-70975b891941,Fully Paid
 b9cc70dc-8eb9-4e71-b704-68c80f7b6d57,Fully Paid
 8bada9b1-3819-4a1a-bff8-87c132e25070,Fully Paid
-2c532f85-349f-4117-812f-c75965c8fc6c,Fully Paid
+2c532f85-349f-4117-812f-c75965c8fc6c,Charged Off
 73d3d9a9-8135-44ed-a032-c57e559d8715,Fully Paid
 b8423545-d840-4d29-a2aa-0863dce8c4cb,Fully Paid
 7d1c0061-0063-44f6-8b95-7711920e99da,Fully Paid
@@ -9267,7 +9267,7 @@ f962ac70-3a74-4505-9536-8b3a51782211,Fully Paid
 a1ba479b-481d-42a8-9437-ca768fde785b,Fully Paid
 6bde7a24-e0d2-4152-bdac-6f648fdadf42,Fully Paid
 75057721-f84d-42ec-94f7-8fda60906324,Charged Off
-dab367fa-59e8-4086-a8d9-a35a87e7aa84,Fully Paid
+dab367fa-59e8-4086-a8d9-a35a87e7aa84,Charged Off
 43795a0e-55cd-4d28-861c-2c73d70184f7,Fully Paid
 98bc6e38-7c14-4e72-856a-1efa060ab9db,Fully Paid
 a4836b59-cba3-473f-ab2a-161e3b24a07b,Fully Paid
@@ -9333,7 +9333,7 @@ fb6e802b-be04-45ed-8c49-1789085f67ac,Fully Paid
 842598a4-4530-426c-aeff-af6e652b1a71,Fully Paid
 2dc8d442-05b1-4b24-9c38-b581cd4f40e8,Fully Paid
 4f1735c5-69b2-4306-81b6-39ae21659e3d,Fully Paid
-2601cffc-81a3-41d1-a61f-236bd0a24ad9,Fully Paid
+2601cffc-81a3-41d1-a61f-236bd0a24ad9,Charged Off
 20ca14c4-1d70-410f-9bb9-e502117737ab,Fully Paid
 3264027c-8cd3-4f85-bc7f-53fbfa868ff2,Fully Paid
 37ee7ac6-f5d8-46fe-94c1-2748e600edb0,Fully Paid
@@ -9671,7 +9671,7 @@ ab3dfce7-13f7-4a68-a4c6-ec70b2aa7e48,Fully Paid
 39e9138f-85cb-4c78-a88b-da27f9b2eab6,Charged Off
 41faf9c3-70ed-4197-81ac-fc244ac00b4c,Fully Paid
 d3378f7f-d616-46a8-a116-89e572264bce,Fully Paid
-a9c3d031-28cb-4b15-b6b5-cce526c6d81e,Fully Paid
+a9c3d031-28cb-4b15-b6b5-cce526c6d81e,Charged Off
 44f0b8ef-131b-4de1-bb9a-d70647011e8b,Fully Paid
 81836d39-4d5a-4a4b-bd3b-2eb6bdcb7e59,Fully Paid
 0f80ea94-4d26-422f-9d28-65feb83744ad,Fully Paid
@@ -9856,7 +9856,7 @@ b59666bd-fe71-4652-9baf-eab1759395c0,Fully Paid
 83f62088-685c-43fd-a8d8-4f231387aa1e,Fully Paid
 48e8677f-a936-4044-9431-808ea1881e13,Fully Paid
 9109754a-30fe-4112-9e03-a57953dad095,Fully Paid
-de47670c-3460-4008-9308-28898a85ccae,Fully Paid
+de47670c-3460-4008-9308-28898a85ccae,Charged Off
 a708a4b6-ff96-43b4-a5bc-93ba8da04cce,Fully Paid
 5be04829-051f-4d5d-8454-24bda28fb891,Fully Paid
 f5b806b5-7cfb-41e6-be1a-222da206c007,Fully Paid
@@ -9922,7 +9922,7 @@ b0b4e49c-4fe9-455b-a2a4-bcda39e7040b,Fully Paid
 009d168d-d873-43a8-83a1-66bb12a36f36,Fully Paid
 d336c49b-f9a6-4f8e-a23b-2938d8ec96b9,Fully Paid
 853e9e4b-1616-470f-9f0c-dc333709672e,Fully Paid
-b3af96c5-9d2d-4730-ad50-b3ce1465d565,Fully Paid
+b3af96c5-9d2d-4730-ad50-b3ce1465d565,Charged Off
 16838272-fcd3-4705-99d6-0ed0819c7532,Fully Paid
 a5134ff5-2a60-4370-8601-ab75e03eb2a3,Fully Paid
 6750846d-bf1d-427d-821f-3173a2dca9b6,Fully Paid
@@ -9989,7 +9989,7 @@ e639de51-14ea-4401-84c5-0b7afe925c53,Fully Paid
 09ca1de4-11a2-4c50-a490-67268e60823f,Fully Paid
 83e97814-285e-4b0a-85d9-63a6d714c0d8,Fully Paid
 f775380b-57c0-409c-9824-cafbb9aa475a,Fully Paid
-91e26ead-810b-44a0-892f-d623e1e444a0,Fully Paid
+91e26ead-810b-44a0-892f-d623e1e444a0,Charged Off
 0594e01c-4230-4280-8267-78cd0c46f720,Fully Paid
 4d0d0e65-e9aa-43e4-8de0-8aa2869a9983,Fully Paid
 6f0b1e02-d222-4227-9161-b0c4fff4dd76,Fully Paid
